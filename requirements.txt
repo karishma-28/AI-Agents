@@ -1,0 +1,6 @@
+transformers
+scikit-learn
+llama-index
+requests
+fastapi
+uvicorn
